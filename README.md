@@ -1,2 +1,1 @@
-# 1206157433-qq.com
-mutidatasource-demo
+同一个项目配置多个数据源，使用mysql的两个数据库 其实也可以配置oralce和mysql同时用在项目中
